@@ -1,0 +1,25 @@
+{
+  "name": "dmalit-devcamp-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a footer to be dynamically generated for JS applications with an updated name and year.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmalit/dmalit-devcamp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Diego Malit <diegomalit@gmail.com> (http://www.yourhomepage.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmalit/dmalit-devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/dmalit/dmalit-devcamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
